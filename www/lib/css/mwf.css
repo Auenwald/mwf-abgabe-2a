@@ -734,7 +734,9 @@ li input {
 
 .mwf-actionmenu li.mwf-li-singletitle:last-child, .mwf-listitem-menu li.mwf-li-singletitle:last-child {
     border-bottom: none;
+
 }
+
 
 /* actionmenu expanded: set width and padding */
 .mwf-actionmenu.mwf-expanded {
